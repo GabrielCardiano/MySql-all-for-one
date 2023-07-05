@@ -1,2 +1,2 @@
 SELECT product_name, id FROM products 
-ORDER BY id;
+ORDER BY product_name;
